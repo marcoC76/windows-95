@@ -1,6 +1,6 @@
 permalink: /:year:month:day/:title
-url: marcoc76.github.io/windows-95/
-baseurl: /windows-95/
+url: https://marcoc76.github.io/windows-95/
+baseurl: /
 
 # variables
 name: Your Site Name
